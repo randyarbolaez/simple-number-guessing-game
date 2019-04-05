@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Sigmar+One');
+
+body {
+  background: #36393b;
+  font-family: 'Sigmar One', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.wrapper h1 {
+  color: #bfb6bb;
+  font-size: 5.5rem;
+}
+
+.wrapper span {
+  color: #bfb6bb;
+}
+
+.sub-wrapper input {
+  font-family: 'Sigmar One', cursive;
+  font-size: 2rem;
+  color: #bfb6bb;
+  width: 10vw;
+  height: 8vh;
+}
+
+.wrapper h2 {
+  color: #bfb6bb;
+  font-size: 3rem;
+}
